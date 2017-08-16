@@ -1,7 +1,7 @@
 # pptx_pdf_script
 A python script that will regularly poll for changes, and convert a pptx file to pdf
 
-This was created over a period of ~6 hours and is my first python automation script; it could be thought of has a hackathon. 
+This was created over a period of ~6 hours and is my first python automation script. Built with development speed in mind, it definitly is rough around the edges; I hope to refine it in future versions. 
 
 To use, run the script in the bin folder. Let's assume it has been added to the path. It would look like python pptx_export.py [input file path] [output file path]
 
