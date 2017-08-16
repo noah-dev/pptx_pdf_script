@@ -1,7 +1,7 @@
 # pptx_pdf_script
 A python script that will regularly poll for changes, and convert a pptx file to pdf
 
-This was created over a period of ~6 hours; it could be thought of has a hackathon. 
+This was created over a period of ~6 hours and is my first python automation script; it could be thought of has a hackathon. 
 
 To use, run the script in the bin folder. Let's assume it has been added to the path. It would look like python pptx_export.py [input file path] [output file path]
 
@@ -24,4 +24,4 @@ There are a few major improvements points I want to add in the next version.
 Not only will this make the script better, it will be an opportunity to expand my skillsets and be a better developer. 
 
 # Flow chart:
-[![Demo](https://github.com/noah-dev/pptx_pdf_script/blob/master/docs/algorithim.png)]
+![Demo](https://github.com/noah-dev/pptx_pdf_script/blob/master/docs/algorithim.png)
